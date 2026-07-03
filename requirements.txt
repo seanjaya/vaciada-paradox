@@ -1,0 +1,10 @@
+# Vaciada Paradox — Python dependencies
+# Install with:  pip install -r requirements.txt
+
+pandas
+numpy
+scikit-learn
+matplotlib
+eurostat
+
+# Standard-library modules used (no install needed): collections, base64
